@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sssromaz
-- 👀 I’m interested in music, programming, oldTimer(oldCars)
-- 🌱 I’m currently learning HTML/CSS also JS
+- 👀 I’m interested in music, programming, oldTimers
+- 🌱 I’m currently learning <HTML> CSS{} {JS} {typeScript} React Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @sssromaz
 
